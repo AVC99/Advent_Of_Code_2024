@@ -13,3 +13,4 @@ go run main.go
 | Day | Problem                                                   | Solution                      |
 | --- | --------------------------------------------------------- | ----------------------------- |
 | 1   | [Historian Hysteria](https://adventofcode.com/2024/day/1) | [Source](days/day01/day01.go) |
+| 2   | [Red-Nosed Reports](https://adventofcode.com/2024/day/2)  | [Source](days/day02/day02.go) |
