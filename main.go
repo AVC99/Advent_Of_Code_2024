@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/AVC99/Advent_Of_Code_2024/days"
+	"github.com/AVC99/Advent_Of_Code_2024/days/day01"
 )
 
 func main() {
@@ -23,7 +23,7 @@ func displayDay(day int) {
 	switch day {
 	case 1:
 		fmt.Println("Running -> Day 1: Historian Hysteria")
-		days.Day01()
+		day01.Day01()
 	}
 }
 func askForDay() int {
